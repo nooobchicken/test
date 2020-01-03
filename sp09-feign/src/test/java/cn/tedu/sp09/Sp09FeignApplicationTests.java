@@ -8,6 +8,7 @@ class Sp09FeignApplicationTests {
 
 	@Test
 	void contextLoads() {
+		int a;
 	}
 
 }
